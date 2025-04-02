@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Kansal</h1>
-<h3 align="center">DSA in C++ | Web Development (HTML, CSS, JS) | Passionate Coder | Dedicated to Crafting Innovative Solutions</h3>
+<h3 align="center">DSA in C++ | Web Development (HTML, CSS, JS, React.JS) | Passionate Coder | Dedicated to Crafting Innovative Solutions</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
