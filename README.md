@@ -1,45 +1,103 @@
 <h1 align="center">Hi 👋, I'm Aayush Kansal</h1>
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-<h3 align="center">
-DSA in C++ | Web Development (HTML, CSS, JS, React.js) <br>
-Passionate Coder | Dedicated to Crafting Innovative Solutions
-</h3>
-
----
-
-🌱 I’m currently learning **Web Development**
-📫 Reach me at: **[aayushkansal79@gmail.com](mailto:aayushkansal79@gmail.com)**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/aayush-kansal-" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/aayush.here" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🧠 About Me
 
-<p align="left">
+- 🔭 Currently working on **Full Stack Projects & DSA**
+- 🌱 Learning **System Design & Advanced Backend**
+- 💡 Love solving real-world problems with tech
+- ⚡ Fun fact: I turn ideas into working products 🚀
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+---
 
+## 🚀 Featured Projects
+
+### 🔹 QR-Based Street Light Management System
+- 📷 QR-based complaint & tracking system
+- 🛠️ Smart maintenance workflow
+- ⚡ Role-based redirection (User / Staff)
+- 🧠 Built for smart city infrastructure
+
+---
+
+### 🔹 Billing & Stock Management System
+- 📦 Inventory tracking across stores & warehouse
+- 💰 Advanced billing with partial payments
+- 🔄 Auto-settlement of transactions (oldest first)
+- 📉 Low stock monitoring system
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushkansal79&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkansal79&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkansal79&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushkansal79&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushkansal79&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aayush-kansal-79op">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:aayushkansal79@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⭐ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
